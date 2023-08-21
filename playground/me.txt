@@ -1,0 +1,6 @@
+ 
+{{#user}}
+Name: Priyal Panara
+Skills: HTML, CSS, JS,Jquery,Bootstrap,ReactJS,SQL,C,Object Oriented Programming 
+Email: priyalpanara12@gmail.com
+{{/user}}
